@@ -177,4 +177,59 @@
     overflow: hidden;
 }
 
+/* current-target-section */
+
+.target-title-box{
+    width: 65%;
+    margin: 40px auto;
+    text-align: center;
+}
+.target-title-box>h1{
+    font-size: 32px;
+}
+.target-title-box>p{
+    margin: 20px;
+}
+
+.target-box{
+    margin: 150px 0px;
+}
+.target-item{
+    width: 75%;
+    margin: 20px auto;
+    display: flex;
+    justify-content: space-between;
+}
+
+.t-bg-1{
+    background-color: rgba(255, 76, 30, 0.05);
+}
+.t-bg-2{
+    background-color: rgba(0, 76, 232, 0.05);
+}
+.t-bg-3{
+    background-color: rgba(255, 223, 0, 0.05);
+}
+
+.target{
+    width: 25%;
+    border-radius: 8px;
+    padding: 40px;
+}
+.target-content>h1{
+    font-size: 28px;
+    margin:20px 0px;
+}
+
+.target-content>p{
+    opacity: 70%;
+    margin-bottom: 40px;
+    line-height: 28px;
+    font-size: 16px;
+}
+.target-content>a{
+    font-size: 16px;
+    color: rgb(13, 19, 33);
+    font-weight: bold;
+}
 
